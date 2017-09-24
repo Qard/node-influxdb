@@ -1,6 +1,8 @@
 # InfluxDB
 [![Build Status](https://travis-ci.org/Qard/node-influxdb.png)](https://travis-ci.org/Qard/node-influxdb)
 
+NOTE: This is no longer maintained. See [influx](https://www.npmjs.com/package/influx) for an up-to-date alternative.
+
 Fully-functional node driver for [InfluxDB](http://influxdb.com).
 
 ## Install
