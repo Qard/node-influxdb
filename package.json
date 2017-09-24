@@ -12,7 +12,7 @@
   "author": "Stephen Belanger <admin@stephenbelanger.com>",
   "license": "MIT",
   "dependencies": {
-    "superagent": "~0.16.0"
+    "superagent": "~3.6.0"
   },
   "scripts": {
     "test": "mocha",
@@ -20,8 +20,8 @@
     "coverage": "npm run test-cov && open coverage/lcov-report/index.html"
   },
   "devDependencies": {
-    "mocha": "~1.17.1",
-    "should": "~3.1.0",
-    "istanbul": "~0.2.4"
+    "mocha": "~3.5.3",
+    "should": "~13.1.0",
+    "istanbul": "~0.4.5"
   }
 }
