@@ -1,4 +1,6 @@
 # InfluxDB
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Qard/node-influxdb.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/Qard/node-influxdb.png)](https://travis-ci.org/Qard/node-influxdb)
 
 Fully-functional node driver for [InfluxDB](http://influxdb.com).
